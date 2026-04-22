@@ -1,0 +1,4 @@
+driver_type,typical_base_price,trip_rate_per_km,pickup_rate_per_km,notes
+economical,5,1.2,0.55,"Lower price, good for budget riders"
+balanced,6.5,1.55,0.7,Mid-market pricing and average service
+premium,9.5,2.05,0.9,Higher fare and stronger ratings
