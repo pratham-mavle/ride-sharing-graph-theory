@@ -581,3 +581,4 @@ if __name__ == "__main__":
     main()
 
 print("AWS pipeline test successful")
+print("Version 2 pipeline test")
